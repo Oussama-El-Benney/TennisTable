@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">TennisTable</string>
+    <string name="titre">Ping Pong\'Com</string>
+    <string name="def">suivre les changement des devises</string>
+    <string name="firstName">Enter Frist Player Name</string>
+    <string name="secondName">Enter Frist Player Name</string>
+    <string name="thirdName">Player 3 name</string>
+    <string name="fourthName">Player 4 name</string>
+    <string name="rbFirstChoice">3 manches</string>
+    <string name="rbSecondChoice">4 manches</string>
+    <string name="rbsolos">Solo</string>
+    <string name="rbduos">Duo</string>
+    <string name="play">Start </string>
+    <string name="score">Score : </string>
+
+    <string name="player1">Player 1 : </string>
+    <string name="player2">Player 2 : </string>
+    <string name="team1">Team 1 : </string>
+    <string name="team2">Team 2 : </string>
+    <string name="convert">Convert </string>
+
+    <string-array name="spinner_items">
+        <item>une faute commise</item>
+        <item>joueur a renvoyé la balle à volée en dehors de son camp.</item>
+    </string-array>
+
+
+    <string name="notifErreur">"Please enter your username "</string>
+    <string name="notifErreurValue">Please enter a Value</string>
+    <string name="notifDev">This feature is under development</string>
+
+    <string name="header">Currency Converter</string>
+    <string name="warn">This is for educational purposes only.</string>
+</resources>
